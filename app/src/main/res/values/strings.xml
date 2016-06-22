@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SnapBox</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This app needs camera permission.</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates how to use the Camera2 API to capture RAW
+            camera buffers and save them as DNG files.
+
+
+        ]]>
+    </string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="upload_to_cloud">Upload To Cloud</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_snaps">Snaps</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_cloud_images">Cloud Images</string>
+    <string name="download_image">download_image</string>
+    <string name="title_activity_prime">PrimeActivity</string>
+</resources>

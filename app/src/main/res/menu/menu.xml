@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SnapBox="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/local_images"
+        android:title="Local Images"
+        SnapBox:showAsAction="ifRoom"/>
+    <item android:id="@id/cloud_images"
+        android:title="Cloud Images"
+        SnapBox:showAsAction="never"/>
+    </menu>
